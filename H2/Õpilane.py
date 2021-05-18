@@ -23,11 +23,6 @@ class Õpilane :
 
 
 
-
-
-
-
-
 kooliÕpilane = Õpilane("Tark Tudeng", "AB-123")
 kodutöö1 = Kodutöö("TEST", True, True)
 kodutöö2 = Kodutöö ("Arvutamine", True, True)

@@ -9,7 +9,7 @@ class Menüü:
     def lisaToit(self, Road):
         self.toidud.append(Road)
 
-   #     return (lisaToit)
+        #return (lisaToit)
 
 #    def tagastaToidud(self):
  #       for toit in self.toidud:
