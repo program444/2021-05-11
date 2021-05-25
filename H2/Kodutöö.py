@@ -1,6 +1,6 @@
 class Kodutöö:
-    def __init__(self,pealkiri, hindeline, tehtud ):
+    def __init__(self,pealkiri):
     #Kodutöö omadused:
         self.nimetus = pealkiri
-        self.kashindeline = hindeline
-        self.kastehtud = tehtud
+        self.kasHindeline = False
+        self.kasTehtud = False
